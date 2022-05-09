@@ -1,0 +1,19 @@
+:root{
+    --mainColor:#C4D6D1;
+    --accent:#5871A3;
+    --subColor:#826C6D;
+    --lightColor-50:#ECECED;
+    --lightColor-75:#F1DCE3;
+    --lightColor-100:#EECBD3;
+}
+body{
+    margin:0
+}
+#top{
+    display: flex;
+}
+footer{
+    background-color: #826C6D;
+    padding:2rem;
+    color:var(--lightColor-50);
+}
